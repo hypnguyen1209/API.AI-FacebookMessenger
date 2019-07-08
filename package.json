@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raphaelmeudec/API.AI-FacebookMessenger.git"
+    "url": "git+https://github.com/hypnguyen1209/API.AI-FacebookMessenger.git"
   },
   "keywords": [
     "API.AI",
@@ -18,9 +18,9 @@
   "author": "Raphael Meudec",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/raphaelmeudec/API.AI-FacebookMessenger/issues"
+    "url": "https://github.com/hypnguyen1209/API.AI-FacebookMessenger/issues"
   },
-  "homepage": "https://github.com/raphaelmeudec/API.AI-FacebookMessenger#readme",
+  "homepage": "https://github.com/hypnguyen1209/API.AI-FacebookMessenger#readme",
   "dependencies": {
     "apiai": "^4.0.2",
     "body-parser": "^1.17.2",
